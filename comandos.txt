@@ -21,4 +21,9 @@ Visualizando alterações:
 $ git log -> Comando que apresenta algumas informações sobre os commits.
 $ git diff -> Comando que apresenta o que foi alterado nos arquivos.
 
+Revertendo alterações:
+
+$ git checkout <nome do arquivo> -> Comando para reverter alterações nos arquivos antes de utilizar o git add <nome do arquivo>
+$ git reset HEAD -> Comando para reverter alterações nos arquivos após utilizar o git add <nome do arquivo>
+
 
