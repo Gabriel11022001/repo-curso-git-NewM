@@ -25,5 +25,11 @@ Revertendo alterações:
 
 $ git checkout <nome do arquivo> -> Comando para reverter alterações nos arquivos antes de utilizar o git add <nome do arquivo>
 $ git reset HEAD -> Comando para reverter alterações nos arquivos após utilizar o git add <nome do arquivo>
+$ git revert <hash> -> Comando que reverte as alterações e não altera o histórico de commits.
 
+Conectando o meu repositório git local com um repositório remoto no GitHub:
+
+$ git remote add origin https://github.com/Gabriel11022001/repo-curso-git-NewM.git -> Comando para definir com qual repositório remoto o meu 
+repositório local vai se conectar. No campo onde está escrito "origin" eu posso colocar qualquer nome que eu quiser, esse campo serve somente para definir
+o nome do repositório remoto.
 
