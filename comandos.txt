@@ -1,0 +1,19 @@
+Controle de versão: Sistema com a finalidade de gerenciar versões de arquivos.
+Configurando o git:
+$ git config --global user.name "Gabriel Rodrigues dos Santos" -> Comando para definir o nome do usuário.
+$ git config --global user.email "gabriel996567521@gmail.com" -> Comando para definir o e-mail do usuário.
+$ git config user.name -> Mostrar o nome de usuário.
+$ git config user.email -> Mostrar o e-mail do usuário.
+
+Inicializar o repositório:
+$ git init -> Comando responsável por inicializar um repositório git.
+
+$ git status -> Comando para ver os status dos meus arquivos.
+$ git add <nome do arquivo> -> Comando para adicionar um arquivo como um arquivo que está sendo visualizado pelo git.
+
+Comitando:
+
+$ git commit -m "Meu primeiro commit" -> Comando para realizar um commit dos arquivos que estão sendo visualizados pelo git, ou seja, estou praticamente criando
+o versionamento dos arquivos.
+
+
