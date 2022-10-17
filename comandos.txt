@@ -33,3 +33,8 @@ $ git remote add origin https://github.com/Gabriel11022001/repo-curso-git-NewM.g
 repositório local vai se conectar. No campo onde está escrito "origin" eu posso colocar qualquer nome que eu quiser, esse campo serve somente para definir
 o nome do repositório remoto.
 
+$ git push -u origin master -> Comando para subir os arquivos do meu repositório local para um repositório remoto.
+git push -> Enviar arquivos de um repositório para outro.
+origin -> Apelido que eu dei para o repositório para onde estou enviando os arquivos.
+master -> Branch de onde os arquivos estão saindo.
+
