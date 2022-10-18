@@ -38,3 +38,12 @@ git push -> Enviar arquivos de um repositório para outro.
 origin -> Apelido que eu dei para o repositório para onde estou enviando os arquivos.
 master -> Branch de onde os arquivos estão saindo.
 
+Clonando um repositório:
+
+$ git clone https://github.com/Gabriel11022001/repo-curso-git-NewM -> Comando que serve para clonar um repositório remoto ao meu repositório local.
+
+Branch:
+
+$ git checkout -b <nome da branch> -> Comando para criar uma branch e entrar nessa branch.
+$ git branch -> Comando para apresentar todas as branchs do repositório e em qual branch eu estou atualmente.
+$ git branch -D <nome da branch> -> Comando para deletar branchs.
